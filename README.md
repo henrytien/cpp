@@ -18,3 +18,8 @@ https://awesomecpp.com/
 >
 > The goal is to collect a list of resources to help people learn about and leverage modern C++11 and beyond.
 
+Explore kandi
+
+https://kandi.openweaver.com/explore/c++
+
+> Discover & find a curated list of popular libraries, trending project kits, tutorials & learning resources on kandi.
